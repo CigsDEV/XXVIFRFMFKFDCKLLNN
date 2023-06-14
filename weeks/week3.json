@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Fanonification",
+			"coloredicons/player",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fanona Banona",
+			"coloredicons/player",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fuck this shit",
+			"coloredicons/player",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "hell",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "weiner3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

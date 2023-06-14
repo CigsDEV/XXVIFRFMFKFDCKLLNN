@@ -1,0 +1,50 @@
+{
+	"storyName": "yummy",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "holiday",
+	"weekBefore": "suck ball",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Holidunk",
+			"coloredicons/gays",
+			[
+				185,
+				245,
+				66
+			]
+		],
+		[
+			"So Hungry",
+			"coloredicons/gays",
+			[
+				185,
+				245,
+				66
+			]
+		],
+		[
+			"xccr again",
+			"xccr",
+			[
+				185,
+				245,
+				66
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "cockaday"
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Buck",
+			"coloredicons/buck",
+			[
+				255,
+				247,
+				102
+			]
+		],
+		[
+			"ucKB",
+			"coloredicons/buck",
+			[
+				255,
+				247,
+				102
+			]
+		],
+		[
+			"xccr",
+			"xccr",
+			[
+				0,
+				255,
+				21
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "buck",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "crisply chrisletons",
+	"weekName": "weiner",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "lickable feet.. (wait no)",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "64x65",
+	"weekBefore": "my juts",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"64x64",
+			"coloredicons/apple",
+			[
+				255,
+				204,
+				0
+			]
+		],
+		[
+			"32x32",
+			"coloredicons/apple",
+			[
+				255,
+				204,
+				0
+			]
+		],
+		[
+			"16x16",
+			"coloredicons/apple",
+			[
+				255,
+				204,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weee wee 6"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "nuh uh!!! nooooo!!!!",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "nosir",
+	"weekBefore": "asd disorder",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Feroci",
+			"coloredicons/handy",
+			[
+				245,
+				209,
+				66
+			]
+		],
+		[
+			"Feicust",
+			"coloredicons/handy",
+			[
+				245,
+				209,
+				66
+			]
+		],
+		[
+			"Crust",
+			"coloredicons/handy",
+			[
+				245,
+				209,
+				66
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weiner4"
+}

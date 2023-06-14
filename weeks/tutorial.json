@@ -1,0 +1,32 @@
+{
+	"storyName": "my fat sack of nuts",
+	"difficulties": "normal, normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal, normal, normal, normal, normal, normal, normal, normal, normal, normal, null, radical, normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal,normal",
+	"hideFreeplay": false,
+	"weekBackground": "learn",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Titsrealial",
+			"coloredicons/icon-gf",
+			[
+				245,
+				156,
+				66
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "stinkysack",
+	"hiddenUntilUnlocked": false
+}

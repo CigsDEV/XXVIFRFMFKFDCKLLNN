@@ -1,0 +1,50 @@
+{
+	"storyName": "who is this man? why is he?",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "kf2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Offefereboocooob",
+			"coloredicons/icon-KF2",
+			[
+				251,
+				235,
+				255
+			]
+		],
+		[
+			"422FF",
+			"coloredicons/icon-KF2",
+			[
+				251,
+				235,
+				255
+			]
+		],
+		[
+			"brattle",
+			"coloredicons/icon-KF2",
+			[
+				251,
+				235,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weinerone",
+	"hiddenUntilUnlocked": false
+}
