@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kzr_ALL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kzr_ALL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kzr_ALL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kzr_ALL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kzr_ALL"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "422FF_Player MissALL",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				3
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "422FF_Player MissALL"
+		},
+		{
+			"offsets": [
+				1,
+				3
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "422FF_Player MissALL"
+		},
+		{
+			"offsets": [
+				1,
+				3
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "422FF_Player MissALL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/422FF_Player",
+	"position": [
+		-200,
+		120
+	],
+	"healthicon": "icon_KF2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		230,
+		255
+	],
+	"camera_position": [
+		30,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Buck-Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Buck-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Buck-Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Buck-Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Buck-Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Buck-Player left MISS"
+		},
+		{
+			"offsets": [
+				0,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": true,
+			"name": "Buck-Player right MISS"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": true,
+			"name": "Buck-Player up MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": true,
+			"name": "Buck-Player down MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Buck-Player",
+	"position": [
+		-60,
+		270
+	],
+	"healthicon": "icon-buck",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		150,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

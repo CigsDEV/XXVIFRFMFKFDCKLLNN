@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				230,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Racial Spiteful Jig"
+		},
+		{
+			"offsets": [
+				254,
+				-198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Racial sing DOWN"
+		},
+		{
+			"offsets": [
+				219,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Racial sing UP"
+		},
+		{
+			"offsets": [
+				228,
+				-168
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Racial sing LEFT"
+		},
+		{
+			"offsets": [
+				209,
+				-176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Racial sing RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/racial",
+	"position": [
+		240,
+		0
+	],
+	"healthicon": "radical",
+	"flip_x": true,
+	"healthbar_colors": [
+		132,
+		132,
+		132
+	],
+	"camera_position": [
+		420,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
